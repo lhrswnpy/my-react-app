@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
-          <h2>学号: 20235080903026,姓名:吴伟文</h2>
+          <h2>学号: 20235080903006,姓名:周武升</h2>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
